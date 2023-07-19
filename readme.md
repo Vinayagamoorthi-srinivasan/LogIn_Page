@@ -14,9 +14,6 @@ To use this login page, simply open the `index.html` file in your web browser.
 - User can click on "Forgot Password" to go to a password reset page
 - User can click on "Create Account" to go to a registration page
 
-## Screenshots
-
-Here are some screenshots of the login page:
 
 
 ## Technologies Used
